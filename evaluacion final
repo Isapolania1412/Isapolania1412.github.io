@@ -1,0 +1,14 @@
+<table>
+	<tr>
+<th>Bandera</th>
+		<th>audio</th>
+		<th>escudo</th>
+	</tr>
+	<tr>
+		<td>Los colores de la bandera<br>
+    <p> <font color = amarillo> simbolizan la riqueza del suelo (amarillo) </font></p>
+    </td>
+		<td> Dato 2 </td>
+		<td> Dato 3 </td>
+	</tr>
+</table>
